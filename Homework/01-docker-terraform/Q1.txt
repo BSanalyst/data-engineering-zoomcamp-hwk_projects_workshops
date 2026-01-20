@@ -1,1 +1,8 @@
 pip 25.3 from /usr/local/lib/python3.13/site-packages/pip (python 3.13)
+
+```
+(base) benja@Stringer:~/data-engineering-zoomcamp-hwk_projects_workshops$ docker run --rm --entrypoint=bash -it python:3.13
+root@cf5e44e5a92c:/# pip -V
+pip 25.3 from /usr/local/lib/python3.13/site-packages/pip (python 3.13)
+root@cf5e44e5a92c:/# 
+```
