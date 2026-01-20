@@ -1,0 +1,10 @@
+# Terraform working directory
+Terraform/.terraform/
+
+# Terraform state files
+Terraform/*.tfstate
+Terraform/*.tfstate.*
+
+# Terraform lock file (optional: usually COMMITTED)
+# Terraform/.terraform.lock.hcl
+Terraform/
